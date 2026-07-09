@@ -1,1 +1,1 @@
-# social-thing
+# social-action-project
